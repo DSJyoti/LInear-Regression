@@ -1,4 +1,4 @@
-* This repository focuses on implementing and understanding Linear Regression, a fundamental machine learning algorithm used for predicting continuous values. 
+This repository focuses on implementing and understanding Linear Regression, a fundamental machine learning algorithm used for predicting continuous values. 
 
 * Features
 
