@@ -1,6 +1,6 @@
 This repository focuses on implementing and understanding Linear Regression, a fundamental machine learning algorithm used for predicting continuous values. 
 
-* Features
+Features
 
 * Simple & Multiple Linear Regression: Predict continuous outcomes using one or more input features.
 
